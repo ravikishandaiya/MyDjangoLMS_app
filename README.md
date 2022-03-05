@@ -58,7 +58,7 @@ Method: Delete
 Link: [localhost/subscribers](localhost:8000/Subscribers)  <br />
 Method: GET
 
-### Add a Subscribers
+### Add a Subscriber
 Link: [localhost/subscribers](localhost:8000/Subscribers)  <br />
 Method: POST   <br />
 Body 
@@ -93,11 +93,15 @@ Link: [localhost/subscribers/"subscriber_id.book_id"](localhost:8000/subscribers
 Method: Delete
 
 
+### View all distinct user
+Link: [localhost/users"](localhost:8000/users)    <br />
+Method: GET
+
 
  <br />
   <br />
 
-**Thanks to all of you For showing intrest**  <br />
+**Thanks to all of you For showing interest**  <br />
 **Happy to Hear from you, any suggetions...**
 
 
